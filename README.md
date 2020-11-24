@@ -1,7 +1,7 @@
 # [Human_Resources_Department](https://github.com/parthshah28/Human_Resources_Department)
 A model that could predict which employees are more likely to quit.
 
-## [WEB APP](https://employee-attrition-predictor.herokuapp.com/home)
+## WEB APP - [Click Here](https://employee-attrition-predictor.herokuapp.com/home)
 
 ## **Understanding The Project**
 
