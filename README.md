@@ -21,7 +21,7 @@ A model that could predict which employees are more likely to quit.
 ### A. Prepare the data
 * I checked for missing data then I dropped **'EmployeeCount' , 'Standardhours' and 'Over18'** since they do not change from one employee to the other and I dropped **'EmployeeNumber'** as well.
 
-* **Total = 1470
+* **Total = 1470**
 * **Number of employees who left the company = 237**
 * **Percentage of employees who left the company = 16.122448979591837 %**
 * **Number of employees who did not leave the company (stayed) = 1233**
